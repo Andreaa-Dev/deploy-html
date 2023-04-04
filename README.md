@@ -5,7 +5,7 @@
 - Name:andrea
 - Country:finland
 - Hobby: listen music
-- Favorite book:
+- Favorite book:GOT
 - Favorite movie:
 - Favorite food:
 - Describe yourself with 2 adjectives (or more :)
